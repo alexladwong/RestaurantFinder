@@ -1,5 +1,7 @@
 # Welcome to Restaurant-Finder-with-Location App!
 
+https://alexladwong.github.io/RestaurantFinder/
+
 Hello! 👋 I'm Kintu Alex Ladwong. If you find this project useful or interesting, don't forget to give it a ⭐️!
 ![CleanShot 2024-06-03 at 17 24 07@2x](https://github.com/alexladwong/RestaurantFinder/assets/81810294/21dce73d-98b1-4d08-8431-1e7837aa2c04)
 
