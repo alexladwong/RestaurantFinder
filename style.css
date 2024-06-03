@@ -88,7 +88,8 @@ button:hover {
 
 /* Restaurant Card Styles */
 .restaurant-card {
-  background-color: #1f1f1f;
+  background-color: #0f100f5f;
+  border: 1px solid #fff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   padding: 1.5rem;
@@ -99,7 +100,7 @@ button:hover {
 
 .restaurant-card h2 {
   margin: 0.5rem 0;
-  color: #ff6347;
+  color: #5c47ff;
   font-size: 1.5rem;
 }
 
